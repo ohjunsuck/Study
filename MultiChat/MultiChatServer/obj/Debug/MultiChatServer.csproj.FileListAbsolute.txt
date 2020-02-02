@@ -1,0 +1,8 @@
+C:\Users\topoj\Downloads\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\topoj\Downloads\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\topoj\Downloads\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.csprojAssemblyReference.cache
+C:\Users\topoj\Downloads\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\topoj\Downloads\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\topoj\Downloads\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\topoj\Downloads\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\topoj\Downloads\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.pdb
